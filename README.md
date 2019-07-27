@@ -1,3 +1,4 @@
+0.2
 # maven-release-plugin-example
 
 
